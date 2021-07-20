@@ -1,7 +1,5 @@
 # SAT-annotated-arg-texts-plusanswers
-This dataset contains SAT Essay texts annotated for structure. The files also contain artificial answers to an original task based on the reference texts.
-A description of the dataset, how it was created, the theoretical background that informs it, and an experiment carried out with this data can be found in the following paper:
-
-Domingo, C. First Steps towards an Argumentative Dialogue System for Oracy Skills Development in Schools. Master's thesis (pending publication). University of the Basque Country.
+This repository contains a dataset with SAT Essay texts where the paragraphs have been annotated for function, tegether with annotated answers toa  task based on the texts.
+Please refer to the file named "Repository structure and quick guide" for a description of the documents included (description of the annotation process, description of the task that the dataset is used for, etc.)
 
 
